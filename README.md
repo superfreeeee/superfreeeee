@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![Cpp](https://img.shields.io/badge/-Cpp-black?style=flat-square&logo=Cpp)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
