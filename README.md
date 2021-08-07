@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 🛠 Tech Stack
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![Cpp](https://img.shields.io/badge/-Cpp-black?style=flat-square&logo=Cpp)
@@ -30,5 +31,5 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-[![Superfreeeee's github stats](https://github-readme-stats.vercel.app/api?username=superfreeeee&theme=dark)](https://github.com/Superfreeeee/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superfreeeee&hide=TeX&layout=compact&theme=dark)
+[![Superfreeeee's github stats](https://github-readme-stats.vercel.app/api?username=superfreeeee&theme=dark)](https://github.com/Superfreeeee/github-readme-stats)
