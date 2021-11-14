@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 ### 我的项目
 
-- General CLI：https://github.com/superfreeeee/general-cli
+- @youxian/cli：https://www.npmjs.com/package/@youxian/cli
+- @youxian/utils：https://www.npmjs.com/package/@youxian/utils
 
 🛠 Tech Stack
 
