@@ -24,8 +24,15 @@ Here are some ideas to get you started:
 
 ### 我的项目
 
-- @youxian/cli：https://www.npmjs.com/package/@youxian/cli
-- @youxian/utils：https://www.npmjs.com/package/@youxian/utils
+- @youxian/cli
+  - 功能：前端项目脚手架
+  - Repository：https://www.npmjs.com/package/@youxian/cli
+- @youxian/utils
+  - 功能：前端工具库（React钩子、工具函数）
+  - Repository：https://www.npmjs.com/package/@youxian/utils
+- @youxian/simple-server
+  - 功能：简易 http 开发服务器
+  - Repository：https://www.npmjs.com/package/@youxian/simple-server
 
 🛠 Tech Stack
 
