@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 ### 我的项目
 
+#### Npm Library
+
 - @youxian/cli
   - 功能：前端项目脚手架
   - Repository：https://www.npmjs.com/package/@youxian/cli
@@ -33,6 +35,12 @@ Here are some ideas to get you started:
 - @youxian/simple-server
   - 功能：简易 http 开发服务器
   - Repository：https://www.npmjs.com/package/@youxian/simple-server
+
+#### Chrome extension
+
+- Tabb
+  - 功能：标签页管理
+  - Repository：https://github.com/superfreeeee/Tabb
 
 🛠 Tech Stack
 
