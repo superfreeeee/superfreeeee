@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 - @youxian/simple-server
   - 功能：简易 http 开发服务器
   - Repository：https://www.npmjs.com/package/@youxian/simple-server
+- @youxian/scripts
+  - 功能：前端常用脚本（类似脚手架命令）
+  - Repository：https://www.npmjs.com/package/@youxian/scripts
 
 #### Chrome extension
 
