@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 超悠閒的博客_CSDN： https://blog.csdn.net/weixin_44691608
 - 博客文档仓库：https://github.com/superfreeeee/Blog
 - 博客代码仓库：https://github.com/superfreeeee/Blog-code
-# - 个人网站：http://101.35.7.72/
+<!-- - 个人网站：http://101.35.7.72/ -->
 
 ### 我的项目
 
