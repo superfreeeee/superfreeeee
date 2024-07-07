@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 博客代码仓库：https://github.com/superfreeeee/Blog-code
 - Homepage：https://youxian-vercel-home.vercel.app/
   - Just simple tools for now
+- IRCT：https://irct-fe.vercel.app/
+  - 概念型线上办公工具，基础 IM + OKR 可视化
 <!-- - 个人网站：http://101.35.7.72/ -->
 
 ### 我的项目
